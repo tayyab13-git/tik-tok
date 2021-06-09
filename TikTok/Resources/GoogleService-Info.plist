@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>373336130770-ac5sghk4vu2hq79g2t37q3lnggcc4sb8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.373336130770-ac5sghk4vu2hq79g2t37q3lnggcc4sb8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8hzzSB2PFr2tPdT2fo3-A8HmTTFrd--A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>373336130770</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>KBTU.TikTok</string>
+	<key>PROJECT_ID</key>
+	<string>tiktok-e9f7b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tiktok-e9f7b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:373336130770:ios:9b50769dd947f923d2990b</string>
+</dict>
+</plist>
